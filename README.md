@@ -25,7 +25,8 @@ cd nessus-parser
 #run the tool....Go!!!
 python3 nessus-parser.py /path/to/folder/with/nessus/files
 ```
-![image](https://github.com/user-attachments/assets/08e35a1b-8265-4c42-9b32-59d0fc0b8035)
+![image](https://github.com/user-attachments/assets/8dfb2c34-9334-4bf0-bde3-a9108bf0d3db)
+
 
 `cat output.txt`
 
