@@ -15,13 +15,7 @@
 
 ---
 
-## 📂 Sample Output
-
-### `output.txt`
-
----
-
-## 🚀 Usage
+## 🚀 Usage and Sample Output
 
 ```bash
 #clone
@@ -31,6 +25,7 @@ cd nessus-parser
 #run the tool....Go!!!
 python3 nessus-parser.py /path/to/folder/with/nessus/files
 ```
+![image](https://github.com/user-attachments/assets/08e35a1b-8265-4c42-9b32-59d0fc0b8035)
 
 ---
 
