@@ -18,3 +18,14 @@
 ## 📂 Sample Output
 
 ### `output.txt`
+
+---
+
+## 🚀 Usage
+
+### 1. Clone the repo
+```bash
+git clone https://github.com/yourusername/nessus-parser.git
+cd nessus-parser
+python3 nessus-parser.py /path/to/folder/with/nessus/files
+```
