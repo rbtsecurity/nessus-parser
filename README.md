@@ -27,6 +27,8 @@ python3 nessus-parser.py /path/to/folder/with/nessus/files
 ```
 ![image](https://github.com/user-attachments/assets/08e35a1b-8265-4c42-9b32-59d0fc0b8035)
 
+`cat output.txt`
+
 ![image](https://github.com/user-attachments/assets/dc2b9d28-9fd4-46fa-b7b9-2d4b93057c48)
 
 
