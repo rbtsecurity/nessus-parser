@@ -25,7 +25,7 @@
 
 ```bash
 #clone
-git clone https://github.com/yourusername/nessus-parser.git
+git clone https://github.com/rbtsecurity/nessus-parser.git
 #cd into directory
 cd nessus-parser
 #run the tool....Go!!!
