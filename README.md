@@ -23,9 +23,11 @@
 
 ## 🚀 Usage
 
-### 1. Clone the repo
 ```bash
+#clone
 git clone https://github.com/yourusername/nessus-parser.git
+#cd into directory
 cd nessus-parser
+#run the tool....Go!!!
 python3 nessus-parser.py /path/to/folder/with/nessus/files
 ```
